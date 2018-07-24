@@ -1,0 +1,21 @@
+.HideMessage {
+        font-weight: bold;
+        color: #ff22ff;
+        /*text-shadow: 1px 1px #123456 ;*/
+        font-size: 1.2em;
+      }
+      li {
+        margin-bottom: 7px;
+        font-size: 1.2em;
+      }
+      li > button {
+        margin-left: 26px;
+      }
+
+      h1{
+        text-align: center;
+      }
+
+      .col-md-6 > h2 {
+        margin-left: 10px;
+      }
